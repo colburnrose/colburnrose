@@ -5,7 +5,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/colburnrose">colburn</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>system design</strong>, and a bit of <strong>JavaScript stack</strong>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>system design</strong>, and lately <strong>JavaScript stack</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/colburnrose">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="#">Coming Soon</a>.</li>
 <li>📙 Check out my <a href="#">resume coming soon</a>.</li>
@@ -34,12 +34,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" /
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 </div>
 
