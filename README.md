@@ -5,7 +5,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/colburnrose">colburn</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>system design</strong>, and lately <strong>JavaScript stack</strong>.</li>
+<li>🧐 Learning about <strong>system design</strong>, and lately <strong>JavaScript stack</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/colburnrose">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="#">Coming Soon</a>.</li>
 <li>📙 Check out my <a href="#">resume coming soon</a>.</li>
