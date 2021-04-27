@@ -41,6 +41,6 @@
 </div>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=colburnrose&show_icons=true&count_private=true" alt="colburnrose" />
+    <img src="https://github-readme-stats.vercel.app/api?username=colburnrose&show_icons=true&count_private=true&bg_color=151515" alt="colburnrose" />
 </div>
 
